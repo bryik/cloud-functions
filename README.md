@@ -1,4 +1,4 @@
-# omega-functions
+# cloud-functions
 
 This is a repo of "cloud functions" (e.g. AWS lambda functions, Google cloud functions, Azure functions...etc).
 
